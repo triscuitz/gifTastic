@@ -1,2 +1,2 @@
-# gitTastic
+# gifTastic
 ALL the GIFs!
