@@ -1,0 +1,12 @@
+.show {
+  margin: 5px;
+}
+.item {
+  float: left;
+  margin: 5px;
+}
+.jumbotron {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #4CBCF0;
+}
